@@ -22,3 +22,8 @@ function subtract(a, b) {
   var subtracted = a + b;
   return subtracted;
 }
+
+function multiply(a, b) {
+  var multiplied = a + b;
+  return multiplied;
+}
