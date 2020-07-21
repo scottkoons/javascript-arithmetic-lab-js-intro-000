@@ -38,7 +38,7 @@ function increment(a) {
     return a;
 }
 
-// function decrement(a) {
-//   var decremented -= a;
-//   return decremented;
-// }
+function decrement(a) {
+  --a;
+  return a;
+}
