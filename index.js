@@ -33,9 +33,9 @@ function divide(a, b) {
   return divided;
 }
 
-function increment(a) {
-  var incremented += a;
-  return incremented;
+function increment() {
+   += a;
+  return;
 }
 
 function decrement(a) {
