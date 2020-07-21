@@ -19,26 +19,26 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-  var subtracted = a + b;
+  var subtracted = a - b;
   return subtracted;
 }
 
 function multiply(a, b) {
-  var multiplied = a + b;
+  var multiplied = a * b;
   return multiplied;
 }
 
 function divide(a, b) {
-  var divided = a + b;
+  var divided = a / b;
   return divided;
 }
 
-function increment(a, b) {
-  var incremented = a + b;
+function increment(a) {
+  var incremented = a++;
   return incremented;
 }
 
-function decrement(a, b) {
-  var decremented = a + b;
+function decrement(a) {
+  var decremented = a--;
   return decremented;
 }
