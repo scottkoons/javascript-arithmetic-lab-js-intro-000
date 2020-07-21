@@ -33,12 +33,12 @@ function divide(a, b) {
   return divided;
 }
 
-function increment() {
-   += a;
-  return;
+function increment(a) {
+    ++a;
+    return a;
 }
 
-function decrement(a) {
-  var decremented -= a;
-  return decremented;
-}
+// function decrement(a) {
+//   var decremented -= a;
+//   return decremented;
+// }
