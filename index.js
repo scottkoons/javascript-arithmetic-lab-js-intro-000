@@ -34,11 +34,11 @@ function divide(a, b) {
 }
 
 function increment(a) {
-  var incremented = a++;
+  var incremented = += a;
   return incremented;
 }
 
 function decrement(a) {
-  var decremented = a--;
+  var decremented = -= a;
   return decremented;
 }
