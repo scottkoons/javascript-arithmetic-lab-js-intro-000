@@ -27,3 +27,8 @@ function multiply(a, b) {
   var multiplied = a + b;
   return multiplied;
 }
+
+function divide(a, b) {
+  var divided = a + b;
+  return divided;
+}
