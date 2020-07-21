@@ -32,3 +32,13 @@ function divide(a, b) {
   var divided = a + b;
   return divided;
 }
+
+function increment(a, b) {
+  var incremented = a + b;
+  return incremented;
+}
+
+function decrement(a, b) {
+  var decremented = a + b;
+  return decremented;
+}
