@@ -37,7 +37,7 @@ function divide(a, b) {
 //   var incremented = += a;
 //   return incremented;
 // }
-// 
+//
 // function decrement(a) {
 //   var decremented = -= a;
 //   return decremented;
